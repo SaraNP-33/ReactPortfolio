@@ -1,0 +1,28 @@
+.masthead{
+    width:100vw;
+    height:100vh;
+    position: relative;
+    display:table;
+    background-image: url("./profile.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.name,
+.title
+{
+   color: whitesmoke;
+}
+.name{
+    font-size:400% !important;
+}
+.title{
+    font-size:200% !important;
+}
+
+.TitleContainer{
+    padding:10px;
+    text-align: center;
+    margin-top:40vh;
+    margin-right:40vw;
+}
