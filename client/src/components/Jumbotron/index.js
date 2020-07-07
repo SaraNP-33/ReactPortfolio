@@ -10,7 +10,7 @@ function Masthead(){
  
   <Container className="TitleContainer">
     <h1 className="name">Sara Neves Pereira</h1>
-    <h2 className="title">
+    <h2 className="title w-50 text-center">
       Full Stack Web Developer 
     </h2>
   </Container>
